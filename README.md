@@ -1,10 +1,29 @@
-- 👋 Hi, I’m @MarcellFernandes
-- 👀 I’m interested in Fullstack development
-- 🌱 I’m currently learning NodeJS
-- 💞️ I’m looking to collaborate on some great project
-- 📫 How to reach me Email: marcell.fernandes56@gmail.com
+# 👋 Hi, I'm Marcell Vaz Fernandes  
+Technical Writer in development focused on creating clear technical documentation for software teams, APIs, and workflows.
 
-<!---
-MarcellFernandes/MarcellFernandes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🛠️ Technical Skills
+- Markdown, Git, GitHub  
+- API Documentation (OpenAPI / Swagger)  
+- Best practices guides  
+- Documentation tools: Docusaurus, Sphinx, Read the Docs  
+- Clear, developer-focused technical writing  
+
+---
+
+## 📌 Highlights
+### Projects
+- 📘 **doc-exemplo-api** — Well-structured REST API documentation example  
+- 📄 **templates-de-doc** — Collection of useful technical documentation templates  
+- 🧪 **guia-de-commits** — Commit standards and workflow guide  
+
+---
+
+## 📫 Contact
+📍 Rio de Janeiro, Brazil  
+🔗 LinkedIn: https://www.linkedin.com/in/marcell-vaz-fernandes/  
+📧 Email: marcell.fernandes56@gmail.com  
+📱 Phone / WhatsApp: +55 21 98391-9672  
+
+---
