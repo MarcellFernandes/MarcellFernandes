@@ -16,7 +16,7 @@ Technical Writer in development focused on creating clear technical documentatio
 ### Projects
 - 📘 **(https://github.com/MarcellFernandes/careflow-docs)** — REST API focused documentation example  
 - 📄 **(https://github.com/MarcellFernandes/flowlab-docs)** — Use Case focused documentation example
-- Soon - (stayflow-docs) - Diataxis focused documentation example
+- 📘 **([https://github.com/MarcellFernandes/stayflow-docs)** — Diataxis focused documentation example
 - Soon - (TechOps-Flow) - DITA focused documentation example
 
 ---
