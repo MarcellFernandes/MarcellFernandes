@@ -22,7 +22,7 @@ Technical Writer in development focused on creating clear technical documentatio
   
   🔧 Repo: https://github.com/MarcellFernandes/careflow-docs
 
-* 📄 **FlowLab Docs** — Use Case focused documentation
+* 📘 **FlowLab Docs** — Use Case focused documentation
 
   👉 Demo: https://marcellfernandes.github.io/flowlab-docs
   
