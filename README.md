@@ -17,13 +17,16 @@ Technical Writer in development focused on creating clear technical documentatio
 ### Projects
 
 * 📘 **CareFlow Docs** — REST API focused documentation
-  👉 Demo: https://marcellfernandes.github.io/careflow-docs | 🔧 Repo: https://github.com/MarcellFernandes/careflow-docs
+  👉 Demo: https://marcellfernandes.github.io/careflow-docs 
+  🔧 Repo: https://github.com/MarcellFernandes/careflow-docs
 
 * 📄 **FlowLab Docs** — Use Case focused documentation
-  👉 Demo: https://marcellfernandes.github.io/flowlab-docs | 🔧 Repo: https://github.com/MarcellFernandes/flowlab-docs
+  👉 Demo: https://marcellfernandes.github.io/flowlab-docs
+  🔧 Repo: https://github.com/MarcellFernandes/flowlab-docs
 
 * 📘 **StayFlow Docs** — Diátaxis focused documentation
-  👉 Demo: https://marcellfernandes.github.io/stayflow-docs | 🔧 Repo: https://github.com/MarcellFernandes/stayflow-docs
+  👉 Demo: https://marcellfernandes.github.io/stayflow-docs 
+  🔧 Repo: https://github.com/MarcellFernandes/stayflow-docs
 
 * 🚧 **TechOps-Flow** — DITA focused documentation (coming soon)
 
