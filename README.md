@@ -34,8 +34,11 @@ Technical Writer in development focused on creating clear technical documentatio
   
   🔧 Repo: https://github.com/MarcellFernandes/stayflow-docs
 
-* 🚧 **TechOps-Flow** — DITA focused documentation (coming soon)
+* 📘 **FlowDesk Docs** — DITA focused documentation
 
+  👉 Demo: https://marcellfernandes.github.io/flowdesk-docs 
+  
+  🔧 Repo: https://github.com/MarcellFernandes/flowdesk-docs
 
 
 ---
